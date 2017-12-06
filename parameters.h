@@ -1,11 +1,3 @@
-//
-//  parameters.h
-//  ABE
-//
-//  Created by Tran Vinh Duc on 11/23/17.
-//  Copyright © 2017 Tran Vinh Duc. All rights reserved.
-//
-
 #ifndef parameters_h
 #define parameters_h
 

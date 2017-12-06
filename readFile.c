@@ -1,11 +1,3 @@
-//
-//  readFile.c
-//  ABE
-//
-//  Created by Tran Vinh Duc on 11/28/17.
-//  Copyright © 2017 Tran Vinh Duc. All rights reserved.
-//
-
 #include "readFile.h"
 void readFiles(const char *filename, Set *userAttrs, DNF *B)
 {

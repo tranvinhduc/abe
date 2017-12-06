@@ -1,12 +1,3 @@
-//
-//  bintree.c
-//  ABE
-//
-//  Created by Tran Vinh Duc on 11/25/17.
-//  Copyright © 2017 Tran Vinh Duc. All rights reserved.
-//
-//#include <stdlib.h>
-
 #include "queue.h"
 #include "bintree.h"
 

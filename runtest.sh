@@ -1,4 +1,4 @@
 #!/bin/zsh
-for f in datatest/*; do
+for f in test/*; do
 	./abe $f < param/a.param
 done;

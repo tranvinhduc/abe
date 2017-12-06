@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-W -Wall -I/usr/local/include/pbc
+CFLAGS=-std=gnu99 -W -Wall -I/usr/local/include/pbc
 LDFLAGS=-lpbc -lgmp
 EXEC=abe
 SRC= $(wildcard *.c)
@@ -13,10 +13,7 @@ abe: $(OBJ)
 clean:
 	rm -rf *.o
 mrproper: clean
-	rm -rf $(EXEC)
-run:	abe runtest.sh
-	./runtest.sh > report.txt
-	
+	rm -rf $(EXEC)	
 	
 
 

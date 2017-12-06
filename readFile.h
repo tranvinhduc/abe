@@ -1,11 +1,3 @@
-//
-//  readFile.h
-//  ABE
-//
-//  Created by Tran Vinh Duc on 11/28/17.
-//  Copyright © 2017 Tran Vinh Duc. All rights reserved.
-//
-
 #ifndef readFile_h
 #define readFile_h
 

@@ -1,11 +1,3 @@
-//
-//  bintree.h
-//  ABE
-//
-//  Created by Tran Vinh Duc on 11/25/17.
-//  Copyright © 2017 Tran Vinh Duc. All rights reserved.
-//
-
 #ifndef bintree_h
 #define bintree_h
 

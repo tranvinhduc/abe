@@ -1,11 +1,3 @@
-//
-//  DNF_param.c
-//  ABE
-//
-//  Created by Tran Vinh Duc on 11/23/17.
-//  Copyright © 2017 Tran Vinh Duc. All rights reserved.
-//
-
 #include "dnf.h"
 void set_set (Set *b, Set x)
 {

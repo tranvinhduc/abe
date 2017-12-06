@@ -1,11 +1,3 @@
-//
-//  DNF_param.h
-//  ABE
-//
-//  Created by Tran Vinh Duc on 11/23/17.
-//  Copyright © 2017 Tran Vinh Duc. All rights reserved.
-//
-
 #ifndef DNF_param_h
 #define DNF_param_h
 

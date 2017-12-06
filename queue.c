@@ -1,11 +1,3 @@
-//
-//  queue.c
-//  ABE
-//
-//  Created by Tran Vinh Duc on 11/25/17.
-//  Copyright © 2017 Tran Vinh Duc. All rights reserved.
-//
-
 #include "queue.h"
 
 static Node * queue[MAX_QUEUE +1];
