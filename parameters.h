@@ -3,7 +3,7 @@
 
 #include <pbc.h>
 #include "dnf.h"
-#include "fix_parameters.h"
+#include "fix.h"
 
 // Global parameters
 struct global_parameters

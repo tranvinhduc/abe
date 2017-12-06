@@ -1,4 +1,4 @@
-#include "readFile.h"
+#include "readfile.h"
 void readFiles(const char *filename, Set *userAttrs, DNF *B)
 {
     FILE * fp;

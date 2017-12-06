@@ -3,7 +3,7 @@
 
 #include <stdlib.h>
 #include <stdio.h>
-#include "fix_parameters.h"
+#include "fix.h"
 
 typedef struct
 {

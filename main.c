@@ -2,7 +2,7 @@
 #include "abe.h"
 #include <pbc.h>
 #include "bintree.h"
-#include "readFile.h"
+#include "readfile.h"
 
 #include <pbc_test.h>
 
